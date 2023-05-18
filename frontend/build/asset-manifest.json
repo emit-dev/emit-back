@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4ff8fe4.css",
+    "main.js": "/static/js/main.d84b719d.js",
+    "static/media/login-img.svg": "/static/media/login-img.c91d92a40ac3cf673c15.svg",
+    "static/media/partnerLoop.svg": "/static/media/partnerLoop.c31aa740db5f85cf79e73e7d9175df37.svg",
+    "static/media/helvetica_oblique.otf": "/static/media/helvetica_oblique.a1823bb006b6c436c523.otf",
+    "static/media/helvetica_boldoblique.otf": "/static/media/helvetica_boldoblique.082aabcca193fbd19bc4.otf",
+    "static/media/helvetica_bold.otf": "/static/media/helvetica_bold.899889c95eb3c6b47ce3.otf",
+    "static/media/helvetica_regular.otf": "/static/media/helvetica_regular.da7db66db5a8e54a8308.otf",
+    "static/media/veco.jpg": "/static/media/veco.0a8ff3a7c364cca870b9.jpg",
+    "static/media/textLoop.svg": "/static/media/textLoop.89a6790485af991f0d022f4649faf7c3.svg",
+    "static/media/neon.jpg": "/static/media/neon.640e41dd9568672cdb46.jpg",
+    "static/media/helvetica_lightoblique.otf": "/static/media/helvetica_lightoblique.eef71bed5fd061ffad76.otf",
+    "static/media/helvetica_light.otf": "/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
+    "static/media/a1.png": "/static/media/a1.76ea22996877bd1d8ffb.png",
+    "static/media/projectsLoop.svg": "/static/media/projectsLoop.cbb322ee364923f28cff0bc5539ebb5c.svg",
+    "static/media/4szLGMSEh-4.jpg": "/static/media/4szLGMSEh-4.5d7c319fb1f6a7797f4a.jpg",
+    "static/media/gonchar.jpg": "/static/media/gonchar.7610e6c0e02321fb4bdc.jpg",
+    "static/media/helvetica_cyr_oblique.ttf": "/static/media/helvetica_cyr_oblique.e674236c5404f341ac21.ttf",
+    "static/media/helvetica_cyr_boldoblique.ttf": "/static/media/helvetica_cyr_boldoblique.b38d72d608526b0b0d72.ttf",
+    "static/media/shoper.jpg": "/static/media/shoper.7f090d7ce4a3c54f20e1.jpg",
+    "static/media/mart.jpg": "/static/media/mart.0b62bbde24f03fc3a931.jpg",
+    "static/media/pekarnya.png": "/static/media/pekarnya.692513bc274e22c8fc25.png",
+    "static/media/planum.jpg": "/static/media/planum.03075e1ce40e8c3a4255.jpg",
+    "static/media/printer.jpg": "/static/media/printer.fc6cfc6f9ff69b384fce.jpg",
+    "static/media/candles.jpg": "/static/media/candles.e6cbee301eed8422e2d8.jpg",
+    "static/media/Inst.svg": "/static/media/Inst.8353eec350658047e25462ec389726cd.svg",
+    "static/media/VK.svg": "/static/media/VK.cb1e544f4f4b101a1614255418264b65.svg",
+    "index.html": "/index.html",
+    "static/media/Arrow.svg": "/static/media/Arrow.98ea77b5cace4d5010b8cbf0228235e1.svg",
+    "static/media/arrow.svg": "/static/media/arrow.0688c7f42b09681fe82e804d0794b4f6.svg",
+    "static/media/rightArrow.svg": "/static/media/rightArrow.79425ddd4dad0694816df9e9634ab9fd.svg",
+    "static/media/leftArrow.svg": "/static/media/leftArrow.ddb4eac27fe00c9f7431e2598e6beca3.svg",
+    "main.a4ff8fe4.css.map": "/static/css/main.a4ff8fe4.css.map",
+    "main.d84b719d.js.map": "/static/js/main.d84b719d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ff8fe4.css",
+    "static/js/main.d84b719d.js"
+  ]
+}
